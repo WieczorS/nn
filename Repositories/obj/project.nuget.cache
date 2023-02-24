@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OoGbCDmtMg5/Q68nUN0w4gRcpPe9gACSzSHpEO9cCu6DHrkzInPLcaIrF4WjE0/shLlPKO1aG4OD84mxpVkUg==",
+  "success": true,
+  "projectFilePath": "/home/halfbit/RiderProjects/solution1/Repositories/Repositories.csproj",
+  "expectedPackageFiles": [
+    "/home/halfbit/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/halfbit/.nuget/packages/npgsql/7.0.1/npgsql.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
